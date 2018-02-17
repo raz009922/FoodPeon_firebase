@@ -1,0 +1,34 @@
+
+<fragment
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_weight="1"
+    android:id="@+id/map"
+    android:name="com.google.android.gms.maps.SupportMapFragment">
+
+
+    <!--<Button-->
+        <!--android:id="@+id/button"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_gravity="right|top"-->
+        <!--android:layout_marginTop="20dp"-->
+        <!--android:padding="10dp"-->
+        <!--android:paddingRight="10dp"-->
+        <!--android:text="Distance"-->
+        <!--android:visibility="visible" />-->
+
+    <TextView
+        android:id="@+id/aaa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:paddingRight="10dp" />
+
+
+</fragment>

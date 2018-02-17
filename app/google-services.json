@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1090239196255",
+    "firebase_url": "https://foodpeon-5654e.firebaseio.com",
+    "project_id": "foodpeon-5654e",
+    "storage_bucket": "foodpeon-5654e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090239196255:android:13ab42effea1fd95",
+        "android_client_info": {
+          "package_name": "com.example.dc_raz.foodpeon_again"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090239196255-qqv9rgqr958j3o4u68j39s2fif8k6n2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dc_raz.foodpeon_again",
+            "certificate_hash": "f6f1155e52d4e2e55af27e43ff987065f15071a4"
+          }
+        },
+        {
+          "client_id": "1090239196255-79fhqtv1cs24656uv3ddd6vnkjqlri0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhs01BIVQeWWm0CTOW8kJVUom7aq_goDI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090239196255-79fhqtv1cs24656uv3ddd6vnkjqlri0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
